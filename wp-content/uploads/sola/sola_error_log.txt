@@ -1,0 +1,4 @@
+Error log created
+2015-08-24 04:41:09: Campaign send initiated -> Started sending 1 mails for campaign 1 at 2015-08-24 04:41:09
+2015-08-24 04:41:09: Failed to send email to subscriber -> Could not send email to 
+2015-08-24 04:41:09: Campaign send ended -> Ended sending campaign 1 at 2015-08-24 04:41:09

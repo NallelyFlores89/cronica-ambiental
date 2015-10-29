@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.post-grid-container.event {
+  text-align: center;
+}
+
+.post-grid-container.event .grid-single {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  display: inline-block;
+  margin: 20px 15px;
+  max-width: 250px;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+}
+
+.post-grid-container.event .thumb {
+  max-height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+.post-grid-container.event .thumb img {
+  border: medium none;
+  border-radius: 0;
+  box-shadow: none;
+  width: 100%;
+}
+
+.post-grid-container.event .title {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 5px 10px;
+  text-align: left;
+}
+
+.post-grid-container.event .title a {
+  text-decoration: none;
+}
+
+.post-grid-container.event .meta {
+  padding: 10px;
+}
+
+
+
+
+
+.post-grid-container.event .pg-woocommerce {
+  padding: 10px;
+}
+
+.post-grid-container.event .pg-price {
+
+
+}
+.post-grid-container.event .pg-price .amount {
+  font-size: 18px;
+}
+
+.post-grid-container.event .pg-cart {
+
+}
+.post-grid-container.event .pg-cart p {
+  border: medium none !important;
+  margin-bottom: 0 !important;
+  padding: 10px 0 !important;
+}
+.post-grid-container.event .pg-cart .amount {
+  display: none;
+}
+
+.post-grid-container.event .pg-rating {
+  padding: 10px 0;
+}
+
+
+.post-grid-container.event .pg-rating .star-rating {
+  float: none !important;
+  margin: 0 auto;
+}
+
+.post-grid-container.event .content {
+  font-size: 13px;
+  line-height: inherit;
+  padding: 5px 10px 15px;
+  text-align: left;
+}
+
+.post-grid-container.event .content .read-more {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.post-grid-container.event .meta-fields {
+  background: none repeat scroll 0 0 rgb(255, 194, 63);
+  float: left;
+  margin-right: 10px;
+  min-height: 130px;
+  min-width: 130px;
+}
+
+.post-grid-container.event .meta-fields .meta-single {
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  padding: 10px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

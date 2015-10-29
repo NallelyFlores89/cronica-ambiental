@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.post-grid-container.big-thumbnail {
+  text-align: center;
+}
+
+.post-grid-container.big-thumbnail .grid-single {
+  display: inline-block;
+  margin: 20px 15px;
+  max-width: 250px;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+}
+
+.post-grid-container.big-thumbnail .thumb {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  box-shadow: 0 12px 12px -12px rgb(51, 51, 51);
+  max-height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+.post-grid-container.big-thumbnail .thumb img {
+  border: medium none;
+  border-radius: 0;
+  box-shadow: none;
+  width: 100%;
+}
+
+.post-grid-container.big-thumbnail .title {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0 15px;
+  padding: 10px;
+  text-align: left;
+}
+.post-grid-container.big-thumbnail .title a {
+  text-decoration: none;
+}
+
+
+.post-grid-container.big-thumbnail .meta {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  margin: 0 15px;
+  padding: 10px;
+}
+.post-grid-container.big-thumbnail .social-icon {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  margin: 0 15px;
+  padding: 10px;
+}
+
+
+
+.post-grid-container.big-thumbnail .pg-woocommerce {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  margin: 0 15px;
+  padding: 10px;
+}
+
+.post-grid-container.big-thumbnail .pg-price {
+
+
+}
+.post-grid-container.big-thumbnail .pg-price .amount {
+  font-size: 18px;
+}
+
+.post-grid-container.big-thumbnail .pg-cart {
+
+}
+.post-grid-container.big-thumbnail .pg-cart p {
+  border: medium none !important;
+  margin-bottom: 0 !important;
+  padding: 10px 0 !important;
+}
+.post-grid-container.big-thumbnail .pg-cart .amount {
+  display: none;
+}
+
+.post-grid-container.big-thumbnail .pg-rating {
+  padding: 10px 0;
+}
+
+
+.post-grid-container.big-thumbnail .pg-rating .star-rating {
+  float: none !important;
+  margin: 0 auto;
+}
+
+.post-grid-container.big-thumbnail .content {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  font-size: 13px;
+  line-height: inherit;
+  margin: 0 15px;
+  padding: 10px;
+  text-align: left;
+}
+
+.post-grid-container.big-thumbnail .content .read-more {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.post-grid-container.big-thumbnail .meta-fields {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  margin: 0 15px;
+  padding: 10px;
+}
+
+.post-grid-container.big-thumbnail .meta-fields .meta-single {
+  font-size: 13px;
+  padding: 5px 0;
+}
+

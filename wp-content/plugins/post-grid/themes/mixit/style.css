@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.post-grid-container.mixit {
+  text-align: center;
+}
+
+.post-grid-container.mixit .grid-single {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  display:inline-block;
+  margin: 20px 15px;
+  max-width: 250px;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  vertical-align: top;
+}
+
+.post-grid-container.mixit .thumb {
+  max-height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+.post-grid-container.mixit .thumb img {
+  border: medium none;
+  border-radius: 0;
+  box-shadow: none;
+  width: 100%;
+}
+
+
+.post-grid-container.mixit .title {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+
+.post-grid-container.mixit .title a {
+  text-decoration: none;
+}
+
+.post-grid-container.mixit .meta {
+  padding: 10px;
+}
+
+
+
+
+
+.post-grid-container.mixit .pg-woocommerce {
+  padding: 10px;
+}
+
+.post-grid-container.mixit .pg-price {
+
+
+}
+.post-grid-container.mixit .pg-price .amount {
+  font-size: 18px;
+}
+
+.post-grid-container.mixit .pg-cart {
+
+}
+.post-grid-container.mixit .pg-cart p {
+  border: medium none !important;
+  margin-bottom: 0 !important;
+  padding: 10px 0 !important;
+}
+.post-grid-container.mixit .pg-cart .amount {
+  display: none;
+}
+
+.post-grid-container.mixit .pg-rating {
+  padding: 10px 0;
+}
+
+
+.post-grid-container.mixit .pg-rating .star-rating {
+  float: none !important;
+  margin: 0 auto;
+}
+
+
+.post-grid-container.mixit .content {
+  font-size: 13px;
+  line-height: inherit;
+  padding: 10px;
+  text-align: left;
+}
+
+.post-grid-container.mixit .content .read-more {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.post-grid-container.mixit .meta-fields {
+  padding: 10px;
+
+}
+
+.post-grid-container.mixit .meta-fields .meta-single {
+  font-size: 13px;
+  padding: 5px 0;
+}
+
+
+.post-grid-container.mixit .post-grid-filter {
+  margin-bottom: 20px;
+}
+
+.post-grid-container.mixit .post-grid-filter .filter {
+  background: none repeat scroll 0 0 rgba(153, 153, 153, 0.4);
+  color: rgb(68, 68, 68);
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 1em;
+  margin: 0 5px;
+  padding: 5px 12px;
+}
+
+.post-grid-container.mixit .post-grid-filter .filter:hover,.post-grid-container.mixit .post-grid-filter .filter.active {
+background: none repeat scroll 0 0 rgba(100, 100, 100, 0.6);
+}
+
+.post-grid-container.mixit .post-grid-mixit .mixit {
+  background: none repeat scroll 0 0 rgba(153, 153, 153, 0.6);
+  display: inline-block;
+  margin: 0 5px;
+  padding: 0 10px;
+}
+
+
+
+
+
+
+.post-grid-container.mixit .pager-list {
+  margin-top: 30px;
+}
+
+.post-grid-container.mixit .pager-list .pager {
+  background: none repeat scroll 0 0 rgba(153, 153, 153, 0.4);
+  cursor: pointer;
+  padding: 4px 10px;
+}
+
+
+.post-grid-container.mixit .pager-list .pager.active {
+  background: none repeat scroll 0 0 rgba(153, 153, 153, 0.6);
+  cursor: pointer;
+  padding: 4px 10px;
+}
+
+
+
+
+
+
+
+
+
+
